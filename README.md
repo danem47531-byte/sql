@@ -139,7 +139,6 @@ The project uses the following five tables:
 ---
 
 ## 👤 Author
-## 👤 Author
 
 ### Tridev Pal
 📍 Calcutta, West Bengal, India
