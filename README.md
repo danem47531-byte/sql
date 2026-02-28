@@ -139,5 +139,12 @@ The project uses the following five tables:
 ---
 
 ## 👤 Author
+## 👤 Author
 
+### Tridev Pal
+📍 Calcutta, West Bengal, India
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://www.linkedin.com/in/tridev-pal-74575a379/)
+
+Feel free to connect on LinkedIn or raise issues via GitHub if you have any suggestions or improvements!
 > Feel free to connect or raise issues via GitHub if you have suggestions or improvements!
