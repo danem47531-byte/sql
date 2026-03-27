@@ -114,8 +114,7 @@ The project uses the following five tables:
 ```
 📦 SQL Project
  ┣ 📄 Flipkart SQL Scripting.sql       # All SQL queries across 7 tasks
- ┣ 📊 SQL Power Point Presentation.pptx  # Project presentation slides
- ┗ 🔗 SQL VIDEO LINK 1.pdf             # Video walkthrough reference
+ ┗ 📊 SQL Power Point Presentation.pptx  # Project presentation slides
 ```
 
 ---
